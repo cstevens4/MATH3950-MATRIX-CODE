@@ -7,7 +7,7 @@
 
 -LU Matrix Factorization
 
--$LDL^t$ Matrix Factorization
+-LDL^t Matrix Factorization
 
 -Cholesky Matrix Factorization
 
