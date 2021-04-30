@@ -10,9 +10,13 @@
   Inputs: Number of equations, Augmented matrix
 
 -LU Matrix Factorization
+ 
+  Inputs: Number of rows in n by n matrix, Matrix
 
 -LDL^t Matrix Factorization
 
 -Cholesky Matrix Factorization
 
 -Crout Matrix Factorization
+
+  Inputs: Number of rows in n by n matrix, Augmented matrix
